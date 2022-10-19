@@ -18,7 +18,7 @@
     </div>
     <div class="pinia">
       <div>{{counter}}</div>
-      <button @click="increment">Increment</button>
+      <button @click="increment">Increment Counter</button>
     </div>
   </div>
 </template>
