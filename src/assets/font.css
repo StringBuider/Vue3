@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: "zkkh";
+  font-weight: 400;
+  src: url("./zkkh.woff2") format("woff2"),
+  url("./zkkh.woff") format("woff");
+  font-display: swap;
+}
